@@ -1,2 +1,2 @@
 ## About me
-Living in Varberg, Sweden :flag_sweden:
+Living in Varberg, Sweden U+1F1F8
