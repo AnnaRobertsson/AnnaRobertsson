@@ -10,7 +10,7 @@ The longing for a more creative field of work made me decide to switch careers i
 I finished Technigo's Web Development Boot Camp in January 2024 and I'm now looking for a job where I can grow!
 
 
-### About me
+### About me 🙋‍♀️
 <ul>
 <li>Living just outside Varberg, Sweden.</li>
 <li>Loves to spend time with family, travel, watch movies/series, go to concerts/restaurants, be creative in different ways.</li>
@@ -18,15 +18,15 @@ I finished Technigo's Web Development Boot Camp in January 2024 and I'm now look
 </ul>
 
 
-### Tech
+### Tech 👩‍💻
 HTML, CSS, Flexbox, Grids, JavaScript, ES6, JSX, React, React Hooks, Node.js, Mongo DB, Web Accessibility, API:s, mob-programming, pair-programming, Github, Lottie Files.
 
 
-### Check out my portfolio
+### Check out my portfolio 💼
 https://annarobertssonportfolio.com/
 
 
-### Contact me
+### Contact me ☎
 <ul>
 <li>LinkedIn: https://www.linkedin.com/in/anna-robertsson-829967272/</li>
 <li>E-mail: annarobertsson.webdeveloper@gmail.com</li>
